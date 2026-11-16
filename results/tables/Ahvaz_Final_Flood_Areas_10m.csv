@@ -1,0 +1,6 @@
+product_name,flood_area_km2
+Baseline threshold,262.7839
+Tuned RF raw,565.0642
+Tuned RBF-SVM raw,635.9270
+Tuned RF filtered,551.4448
+Tuned RBF-SVM filtered,586.9872
