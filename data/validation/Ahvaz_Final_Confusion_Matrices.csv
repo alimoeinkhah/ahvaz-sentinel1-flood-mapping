@@ -1,0 +1,21 @@
+product_name,matrix_cell,actual_class,predicted_class,count
+Baseline threshold,TN,0,0,113
+Baseline threshold,FP,0,1,18
+Baseline threshold,FN,1,0,5
+Baseline threshold,TP,1,1,102
+Tuned RF raw,TN,0,0,110
+Tuned RF raw,FP,0,1,21
+Tuned RF raw,FN,1,0,0
+Tuned RF raw,TP,1,1,107
+Tuned RBF-SVM raw,TN,0,0,109
+Tuned RBF-SVM raw,FP,0,1,22
+Tuned RBF-SVM raw,FN,1,0,0
+Tuned RBF-SVM raw,TP,1,1,107
+Tuned RF filtered,TN,0,0,110
+Tuned RF filtered,FP,0,1,21
+Tuned RF filtered,FN,1,0,0
+Tuned RF filtered,TP,1,1,107
+Tuned RBF-SVM filtered,TN,0,0,110
+Tuned RBF-SVM filtered,FP,0,1,21
+Tuned RBF-SVM filtered,FN,1,0,0
+Tuned RBF-SVM filtered,TP,1,1,107

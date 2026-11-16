@@ -1,0 +1,3 @@
+system:index,bag_fraction,min_leaf_population,model,number_of_trees,predictor_count,training_sample_count,variables_per_split,.geo
+0,0.5,1,Random Forest,300,21,1600,3,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,,,RBF-SVM,,21,1600,,"{""type"":""MultiPoint"",""coordinates"":[]}"
