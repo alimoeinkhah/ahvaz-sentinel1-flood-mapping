@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.aux.xml
+*.tmp
+tmp/
+previews/
+*_preview.*
+ahvaz_world_imagery*.tif
+ahvaz_world_imagery*.jpg
+library-upload-helper-*/
+
